@@ -9,7 +9,7 @@ const Navbar = () => {
         <div>
             <div className="navbar navbar-expand-sm bg-mainColor">
                 <div className="container">
-                    <div className='d-flex align-items-center justify-content-between w-100'>
+                    <div className='d-md-flex align-items-center justify-content-between w-100'>
                         <div className='navbar-brand '>
                             <img className="pe-4" src={process.env.PUBLIC_URL + '/Group 770.png'} alt="mkdk" />
                             <img src={process.env.PUBLIC_URL + '/Group 769.png'} alt="mkdk" />
@@ -20,7 +20,7 @@ const Navbar = () => {
                         </div>
 
 
-                        <div className='d-flex'>
+                        <div className=' mt-3 d-flex'>
                             <div className='d-flex align-items-center pe-4' >
                                 <img src={process.env.PUBLIC_URL + '/Group 756.png'} alt="mkdk" />
                                 <p className='m-0 fw-bold ps-2'>contact Us</p>
@@ -52,7 +52,7 @@ const Navbar = () => {
                         </div>
 
 
-                        <div className='d-flex'>
+                        <div className=' mt-3 d-flex'>
                             <Link to="cart">
                                 <div className='d-flex align-items-center pe-4' >
                                     <div className='position-relative'>

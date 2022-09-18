@@ -93,7 +93,7 @@ const Home = () => {
                         </div>
                         <div className='brdrBottom my-3'>
                             <h5 className='fw-bold m-0 col-md-4'>Size</h5>
-                            <div className='d-flex align-items-center justify-content-between w-75 my-3'>
+                            <div className='d-flex align-items-center justify-content-between w-100 my-3'>
                                 <p className='d-flex align-items-center justify-content-center sizeSpan fw-bold text-secondaryColor px-2 py-1  text-center rounded-circle borderGrey'>small</p>
                                 <p className='d-flex align-items-center justify-content-center sizeSpan fw-bold text-secondaryColor px-2 py-1  text-center rounded-circle borderGrey'>medium</p>
                                 <p className='d-flex align-items-center justify-content-center sizeSpan fw-bold  px-2 py-1 col-md-4 text-center rounded-circle bg-grey'>large</p>

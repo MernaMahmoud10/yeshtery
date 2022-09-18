@@ -1,0 +1,128 @@
+@import"colors";
+
+.searchInput:focus {
+  outline: none !important;
+
+}
+
+.text-mainColor {
+  color: $mainColor;
+}
+
+.text-secondaryColor {
+  color: $secondaryColor;
+}
+
+.bg-mainColor {
+  background-color: $mainColor  !important;
+}
+
+.bg-secondaryColor {
+  background-color: $secondaryColor  !important;
+}
+
+.navbarHome,
+.brdrBottom,
+.productSection {
+  border-bottom: 2px solid $greyColor;
+  position: relative;
+}
+
+.productSection::after
+{
+  content: "";
+  width: 75%;
+  background-color: $secondaryColor;
+  position: absolute;
+  left: 0;
+  height: 5px;
+  bottom: -1px;
+}
+
+.inputDiv {
+  border: 1px solid $blackColor;
+}
+
+.bg-grey {
+  background-color: $greyColor;
+}
+.text-grey
+{
+  color:  $greyColor;
+}
+
+.sizeSpan {
+  width: 19%;
+  height: 80px;
+}
+.fs-small
+{
+  font-size: 14px;
+}
+
+.borderGrey {
+  border: 1px solid $greyColor;
+}
+
+.CountInpDiv {
+  height: auto;
+  padding: 3px 0px;
+
+  input:focus {
+    outline: none !important;
+  }
+
+  .iconCount {
+    width: 35px;
+    height: 35px;
+    cursor: pointer;
+  }
+
+}
+
+.Img360Div {
+  top: 25px;
+  left: 25px;
+}
+
+/****************************************Cart*******************************************/
+.closeIcon
+{
+  color: $darkGrey;
+  top: 20px;
+  right: 50px;
+  cursor: pointer;
+  font-size: larger;
+}
+.cartDiv
+{
+  background-color: rgba($color: $darkGrey, $alpha: 0.4);
+  z-index: 9;
+}
+/*******************************************FOOTER*********************************************/
+.brdrRight
+{
+  border-right: 1px solid $darkGrey;
+}
+.brdrBottom
+{
+  border-bottom: 1px solid $darkGrey;
+
+}
+ul
+{
+  list-style-type: none;
+}
+
+/***********************************************NAVBAR*************************************************/
+.cartItems
+{
+  width: 18px;
+  height: 18px;
+  top: -4px;
+  right: -4px;
+}
+a{
+  text-decoration: none;
+  color: black;
+}

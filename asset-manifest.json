@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/yeshtery/static/css/main.ce0e8027.css",
+    "main.js": "/yeshtery/static/js/main.0d8f232e.js",
+    "static/media/fa-solid-900.ttf": "/yeshtery/static/media/fa-solid-900.b48ad290d0335879a92b.ttf",
+    "static/media/fa-brands-400.ttf": "/yeshtery/static/media/fa-brands-400.f9ee61fab3c11e2f3ed3.ttf",
+    "static/media/fa-solid-900.woff2": "/yeshtery/static/media/fa-solid-900.66104b766c3d0462b3c5.woff2",
+    "static/media/fa-brands-400.woff2": "/yeshtery/static/media/fa-brands-400.e1a247a5ef41e1975742.woff2",
+    "static/media/Group 583.png": "/yeshtery/static/media/Group 583.b33005cc5876ac700973.png",
+    "static/media/Group 589.png": "/yeshtery/static/media/Group 589.e7fe2169b217485bd13c.png",
+    "static/media/Group 575.png": "/yeshtery/static/media/Group 575.e6023fc05faf3c7c1931.png",
+    "static/media/Group 597.png": "/yeshtery/static/media/Group 597.cf0cbb8a5cb9ce0931e8.png",
+    "static/media/fa-regular-400.ttf": "/yeshtery/static/media/fa-regular-400.abf801b7acb6705a15ad.ttf",
+    "static/media/Group 335@2x.png": "/yeshtery/static/media/Group 335@2x.7021f7ee7d081cc840ba.png",
+    "static/media/fa-regular-400.woff2": "/yeshtery/static/media/fa-regular-400.639d2000c1ece92eaec8.woff2",
+    "static/media/Group 333.png": "/yeshtery/static/media/Group 333.e354c594db9e6ed01c55.png",
+    "static/media/Group 331.png": "/yeshtery/static/media/Group 331.522cad545be1d70b3941.png",
+    "static/media/Group 335.png": "/yeshtery/static/media/Group 335.abc087e0e6efa28b253a.png",
+    "static/media/Group 329.png": "/yeshtery/static/media/Group 329.4dcf49a9bdc4d15b4edd.png",
+    "static/media/Group 1441.png": "/yeshtery/static/media/Group 1441.cc2685535d4df5880e68.png",
+    "static/media/fa-v4compatibility.ttf": "/yeshtery/static/media/fa-v4compatibility.f601162ae669f88823a3.ttf",
+    "static/media/fa-v4compatibility.woff2": "/yeshtery/static/media/fa-v4compatibility.745989aab0d69cab7e70.woff2",
+    "index.html": "/yeshtery/index.html",
+    "main.ce0e8027.css.map": "/yeshtery/static/css/main.ce0e8027.css.map",
+    "main.0d8f232e.js.map": "/yeshtery/static/js/main.0d8f232e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ce0e8027.css",
+    "static/js/main.0d8f232e.js"
+  ]
+}
